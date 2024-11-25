@@ -9,7 +9,7 @@
    ALGORITMO DE NUMEROS PRIMOS
 	
      Algoritmo primos
-		// Solicitar el número límite
+		// Solicitar el número a evaluar
 		Escribir "Ingrese un número para hallar los primos antes de el:"
 		Leer x
 		

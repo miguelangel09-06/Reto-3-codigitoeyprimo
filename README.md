@@ -25,7 +25,7 @@
 			esPrimo <- Verdadero
 			
 			// Verificar si i es divisible por algún número entre 2 y raíz(i)
-			// La raiz esta relacionada con la criba de erastotenes
+			// La raiz es para agilizar los cálculos
 			Para j <- 2 Hasta raiz(i) Hacer // recorre los divisores
 				Si i Mod j = 0 Entonces    // Mod significa residuo,si es cero no es primo
 					esPrimo <- Falso

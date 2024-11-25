@@ -40,7 +40,8 @@
 		Fin Para
     FinAlgoritmo
 
- ![Captura de pantalla 2024-11-24 213116](https://github.com/user-attachments/assets/3f78198e-c070-481b-9b0d-4611c30242ce) 
+![Captura de pantalla 2024-11-24 214846](https://github.com/user-attachments/assets/f8bf5e7e-d5df-44ca-a6de-6514507547e9)
+
 
  #### Es mucho mas practico en Pseint ya que incluye el diagrama de flujo.
  #### Muchas Gracias :)
